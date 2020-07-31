@@ -6,14 +6,14 @@
 <h4 align="center">A rule-based tunnel in Go.</h4>
 
 <p align="center">
-  <a href="https://github.com/Dreamacro/clash/actions">
-    <img src="https://img.shields.io/github/workflow/status/Dreamacro/clash/Go?style=flat-square" alt="Github Actions">
+  <a href="https://github.com/R3pl4c3r/clash/actions">
+    <img src="https://img.shields.io/github/workflow/status/R3pl4c3r/clash/Go?style=flat-square" alt="Github Actions">
   </a>
-  <a href="https://goreportcard.com/report/github.com/Dreamacro/clash">
+  <a href="https://goreportcard.com/report/github.com/R3pl4c3r/clash">
     <img src="https://goreportcard.com/badge/github.com/Dreamacro/clash?style=flat-square">
   </a>
-  <a href="https://github.com/Dreamacro/clash/releases">
-    <img src="https://img.shields.io/github/release/Dreamacro/clash/all.svg?style=flat-square">
+  <a href="https://github.com/R3pl4c3r/clash/releases">
+    <img src="https://img.shields.io/github/release/R3pl4c3r/clash/all.svg?style=flat-square">
   </a>
 </p>
 
